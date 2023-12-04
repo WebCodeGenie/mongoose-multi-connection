@@ -1,0 +1,38 @@
+{
+  "name": "mongoose-multi-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "author": "WebCodeGenie",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.0.2"
+  },
+  "engines": {
+    "node": ">= 16.20.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebCodeGenie/mongoose-multi-connection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WebCodeGenie/mongoose-multi-connection/issues"
+  },
+  "keywords": [
+    "mongodb",
+    "document",
+    "model",
+    "schema",
+    "database",
+    "odm",
+    "data",
+    "datastore",
+    "query",
+    "nosql",
+    "orm",
+    "db",
+    "multiple",
+    "multi"
+  ]
+}
